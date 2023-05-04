@@ -1,0 +1,9 @@
+do{ 
+	if ( number< 10 ) 
+		number1++; 
+	else if ( number <20) 
+		number2++; 
+	else  
+		count++; 
+} 
+while (count < 50)
