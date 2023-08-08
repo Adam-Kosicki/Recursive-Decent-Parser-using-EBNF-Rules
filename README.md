@@ -1,5 +1,3 @@
-# Recursive-Decent-Parser-using-EBNF-Rules
-
 This is a C++ program that implements recursive descent parsing in order to parse a for loop using the associated EBNF rules. The program first performs lexical analysis to break down the input code into tokens that can be processed. The supported tokens include identifiers, integer literals, operators (+, -, *, /, =, ==, !=, >, >=, <, <=, ++, --), parentheses, semicolons, curly braces, and keywords (if, else, do, while).
 
 The program implements functions to handle the different non-terminal symbols in the EBNF rules, including for loops, if statements, do-while loops, assignments, conditions, expressions, terms, and factors. The program also includes a function to handle errors in case an invalid token is encountered.
